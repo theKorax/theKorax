@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming, game development and machine learning engineering(artificial intelligence)
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on anything unique
-- 📫 How to reach me : my whatsapp/telegram number, 09014002509
+- 📫 How to reach me : my whatsapp/telegram number, 09014002509; my email: zikoramadin@gmail.com
 
 <!---
 theKorax/theKorax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
